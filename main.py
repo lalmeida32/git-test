@@ -1,3 +1,5 @@
+from lib import sum
+
 num1 = int(input('Digite o primeiro número: '))
 num2 = int(input('Digite o segundo número: '))
-print(f'Soma: {num1 + num2}')
+print(f'Soma: {sum(num1, num2)}')
