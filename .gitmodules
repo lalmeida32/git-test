@@ -1,0 +1,3 @@
+[submodule "openvpn-install"]
+	path = openvpn-install
+	url = https://github.com/angristan/openvpn-install
